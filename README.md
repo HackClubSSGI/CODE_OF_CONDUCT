@@ -34,12 +34,18 @@ decisions when appropriate.
 This Code of Conduct applies within all public channels and community events, and it also applies when an individual is representing the Hack Club SSGI in public spaces. Examples of representing a project or community include posting via an official social media account, or acting as a project representative at an online or offline event.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Community Leaders at hackclub.ssgi@gmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Community Leaders at **hackclub.ssgi@gmail.com**. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 
 Moderators or leaders who do not follow the Code of Conduct in good faith may face temporary or permanent repercussions.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-# Attribution
-This Code of Conduct is adapted from the Contributor Covenant , version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+## Attribution
+This Code of Conduct is adapted from the Contributor Covenant , version 1.4, available [here](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
+
+Enforcement Guidelines were inspired by _GitHub Campus Experts Code of Conduct_.
+
+# Getting help with a violation or incident, the TL;DR:
+
+If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction with any community member, moderator or a leader, ways to report the incident and get support are to contact team at **hackclub.ssgi@gmail.com** or contact `@Ashish Chawda`, `@Vaibhav Agrawal` or `@Bhavya Sahu`.
