@@ -48,4 +48,4 @@ Enforcement Guidelines were inspired by _GitHub Campus Experts Code of Conduct_.
 
 # Getting help with a violation or incident, the TL;DR:
 
-If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction with any community member, moderator or a leader, ways to report the incident and get support are to contact team at **hackclub.ssgi@gmail.com** or contact `@Ashish Chawda`, `@Vaibhav Agrawal` or `@Bhavya Sahu`.
+If for any reason, you feel unsafe, unwelcome or uncomfortable as a result of an interaction with any community member, moderator or a leader, ways to report the incident and get support are to contact team at **hackclub.ssgi@gmail.com** or contact `@Ashish Chawda`, `@Vaibhav Agrawal`, `@Pranjal Bareth` or `@Bhavya Sahu` on [Slack](https://join.slack.com/t/hackclubssgi/shared_invite/zt-l0j9dl5j-rNNmGo5AIG~H4DdWZNbdBQ).
